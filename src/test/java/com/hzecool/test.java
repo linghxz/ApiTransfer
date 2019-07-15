@@ -1,5 +1,5 @@
 package com.hzecool;
 
-public class AppTest {
+public class test {
 	
 }
